@@ -1,0 +1,5 @@
+apiVersion: animal.demo.io/v1alpha1
+kind: Cat
+metadata:
+  name: mycat
+spec: {}
